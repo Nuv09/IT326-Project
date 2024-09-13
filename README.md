@@ -11,6 +11,7 @@ Raghad Alhulwah 444200453
 
 Raghad Hassan 443204743
 
+
 Project Title: Predicting Students Adaptability Levels in Online Education
 
 Motivation: We decided to work on this problem because online education has become increasingly prevalent, especially after the COVID-19 pandemic. Understanding students' adaptability to this mode of learning is crucial for improving educational outcomes. This dataset provides valuable insights into factors influencing adaptability, allowing us to explore patterns and build predictive models that can help educators and institutions better support students. By analyzing the adaptability levels, we hope to contribute to the improvement of online education strategies.
@@ -20,6 +21,7 @@ Goal of Collecting the Dataset: The dataset was collected to evaluate and predic
 Source of the Dataset: Kaggle Platform
 Dataset link: https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
 
+
 General information about the dataset:
 
 Number of Attributes: 14
@@ -27,6 +29,7 @@ Number of Attributes: 14
 Number of Objects: 1205 (students)
 
 Class Name: is Adaptivity Level
+
 
 Type of Attributes:
 
