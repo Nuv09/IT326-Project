@@ -2,9 +2,13 @@
 Data mining project
 
 Nouf Alaskar 443200456
+
 Latefa Alshareef 443200620
+
 Walaa Almutairi 443200973
+
 Raghad Alhulwah 444200453
+
 Raghad Hassan 443204743
 
 Project Title: Predicting Students Adaptability Levels in Online Education
@@ -17,8 +21,11 @@ Source of the Dataset: Kaggle Platform
 Dataset link: https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
 
 General information about the dataset:
+
 Number of Attributes: 14
+
 Number of Objects: 1205 (students)
+
 Class Name: is Adaptivity Level
 
 Type of Attributes:
